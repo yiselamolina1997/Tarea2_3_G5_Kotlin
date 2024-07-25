@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarea2_3_Grupo5</string>
+    <string name="subirImagen">Subir Imagen</string>
+    <string name="verImagen">Ver Imagenes</string>
+    <string name="descripcion">Descripción</string>
+    <string name="ingreseDescripcion">Ingrese una descripción</string>
+    <string name="salvar">Salvar</string>
+    <string name="tomarImagen">Tomar Imagen</string>
+    <string name="seleccionarImagen">Seleccionar Imagen</string>
+    <string name="respuesta">Registro ingresado con exito!</string>
+    <string name="errorIngreso">Error! no se puede registrar!</string>
+    <string name="regresar">Regresar</string>
+</resources>
